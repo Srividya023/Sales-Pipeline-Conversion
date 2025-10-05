@@ -1,2 +1,2 @@
-# Business-Analytics---Case-Studies
-Case studies of Business Analytics
+# Sales Pipeline conversion for a SaaS Company
+A business analytics case study
